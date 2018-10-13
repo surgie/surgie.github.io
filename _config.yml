@@ -1,4 +1,5 @@
-name: Surgie
+name: Surgie's Gaming Notes
+title: Surgie's Gaming Notes
 markdown: kramdown
 permalink: pretty
 defaults:
@@ -9,6 +10,5 @@ defaults:
     layout: "default"
   scope:
     path: "_posts"
-    type: "posts"
   values:
     layout: "post"

@@ -1,0 +1,21 @@
+---
+layout: page
+title: Hearthstone
+permalink: /hearthstone/
+---
+
+<div id="archives">
+    {% assign hs_array = "Druid|Hunter|Mage|Paladin|Priest|Rogue|Shaman|Warlock|Warrior" | split: "|" %}
+    {% for class in hs_array %}
+        <div class="archive-group">
+            <h3 class="Category-head">{{ class }}</h3>
+            <ul>
+                {% for post in site.categories[class] %}
+                    <article class="archive-item">
+                        <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+                    </article>
+                {% endfor %}        
+            </ul>
+        </div>
+    {% endfor %}
+</div>
