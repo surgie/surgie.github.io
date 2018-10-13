@@ -1,3 +1,14 @@
 name: Surgie
 markdown: kramdown
 permalink: pretty
+defaults:
+  scope:
+    path: ""
+    type: "pages"
+  values:
+    layout: "default"
+  scope:
+    path: "_posts"
+    type: "posts"
+  values:
+    layout: "post"
