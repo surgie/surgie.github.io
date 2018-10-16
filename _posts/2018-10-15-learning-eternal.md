@@ -26,6 +26,10 @@ categories: [Eternal]
 - Otherwise 3 is probably minimum (Power Searches < 2 cost included)
 - 4 power cards in slower decks
 
+## Play
+
+- Make your attacks before playing dudes, so they have less info.
+
 
 # Decks
 
