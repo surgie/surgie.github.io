@@ -18,7 +18,18 @@ categories: [Eternal]
 
 [Going Deep - Freer to Play](https://rngeternal.com/2017/01/23/going-deep-freer-to-play/)
 
+# Notes
+
+## Mulligan
+
+- For hyper aggro decks, 2-3 power and units on 2 of first 3 turns is goal.
+- Otherwise 3 is probably minimum (Power Searches < 2 cost included)
+- 4 power cards in slower decks
+
+
 # Decks
+
+[Budget Rakano Gunslinger with Video](https://eternalwarcry.com/decks/details/j70Md0G1kBc/budget-rakano-gunslinger-w-video-showcase)
 
 [Day 1 Budget Rakano Aggro](https://eternalwarcry.com/decks/details/jcd6DPbYn8s/day-1-budget-rakano)
 
