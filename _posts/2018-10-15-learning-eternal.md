@@ -14,7 +14,7 @@ categories: [Eternal]
 
 [Eternal Starter Guide, Budget Decks](https://www.a-space-games.com/eternal-starter-guide)
 
-[Eternal Primer for the Hearthstone Player](www.numotgaming.com/eternal-primer-hearthstone-player/)
+[Eternal Primer for the Hearthstone Player](https://www.numotgaming.com/eternal-primer-hearthstone-player/)
 
 [Going Deep - Freer to Play](https://rngeternal.com/2017/01/23/going-deep-freer-to-play/)
 
