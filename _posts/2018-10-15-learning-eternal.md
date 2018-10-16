@@ -12,7 +12,7 @@ categories: [Eternal]
     - Especially with gold! Use it on "Rare Drafting" (pick highest rarity cards), better evn with 0 wins.
 2. Campaigns - Tale of Horus Traver + Dead Reckoning > Jekk's bounty by a mile
 
-[Eternal Starter Guide, Budget Decks](https://rngeternal.com/2017/08/04/eternal-starter-guide/)
+[Eternal Starter Guide, Budget Decks](https://www.a-space-games.com/eternal-starter-guide)
 
 [Eternal Primer for the Hearthstone Player](www.numotgaming.com/eternal-primer-hearthstone-player/)
 
