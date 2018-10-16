@@ -11,12 +11,15 @@ categories: [Eternal]
 1. Never buy packs
     - Especially with gold! Use it on "Rare Drafting" (pick highest rarity cards), better evn with 0 wins.
 2. Campaigns - Tale of Horus Traver + Dead Reckoning > Jekk's bounty by a mile
+3. Forge until mastered, then Rare Drafts
+
+[Forge Guide](https://rngeternal.com/2017/04/01/scions-school-getting-started-ii-forge/)
 
 [Eternal Starter Guide, Budget Decks](https://www.a-space-games.com/eternal-starter-guide)
 
 [Eternal Primer for the Hearthstone Player](https://www.numotgaming.com/eternal-primer-hearthstone-player/)
 
-[Going Deep - Freer to Play](https://rngeternal.com/2017/01/23/going-deep-freer-to-play/)
+[Going Deep - Free-est to Play](https://rngeternal.com/2017/10/01/going-deep-free-est-to-play/)
 
 # Notes
 
