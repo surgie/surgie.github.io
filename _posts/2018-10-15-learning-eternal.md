@@ -21,6 +21,10 @@ categories: [Eternal]
 
 [Going Deep - Free-est to Play](https://rngeternal.com/2017/10/01/going-deep-free-est-to-play/)
 
+[Getting Started (Ranked)](https://rngeternal.com/2017/04/22/scions-school-getting-started-iii-ranked/)
+
+[New Player Guide - Eternal Post](https://theeternalpost.com/player-guides/new-player-guide)
+
 # Notes
 
 ## Mulligan
@@ -35,6 +39,8 @@ categories: [Eternal]
 
 
 # Decks
+
+[Extreme Budget Deck Series](https://theeternalpost.com/competitive-play/budget-decks/extreme/article)
 
 [Budget Rakano Gunslinger with Video](https://eternalwarcry.com/decks/details/j70Md0G1kBc/budget-rakano-gunslinger-w-video-showcase)
 
