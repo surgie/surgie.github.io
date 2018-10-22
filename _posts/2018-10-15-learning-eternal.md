@@ -25,6 +25,39 @@ categories: [Eternal]
 
 [New Player Guide - Eternal Post](https://theeternalpost.com/player-guides/new-player-guide)
 
+# Draft
+
+[Eternal Draft Beginner's Guide with Card Power Values](http://www.numotgaming.com/eternal-draft-beginners-guide/)
+
+[Drafting 101 Part 1](https://rngeternal.com/2017/09/21/drafting-101-part-1/)
+
+## Priority During Draft
+
+1. Bomb legendary/rare cards
+2. Premium removal (Deathstrike)
+3. Premium weapons (Elder's Feather, Whip Chain, Valkyrie Wings)
+4. Evasive Units / Fliers
+5. Generally strong cards
+
+## Deck Building
+
+Power Thresholds: 1-2, 3, 4, 5+
+
+- 1-2: 7 relevant power plays, 8 to 12 in a perfect world... e.g. 2/2 for 2, cheap removal
+- 4: 3-4 four cost cards
+- 5: 3-5 five+ cost cards
+
+Example normal curve:
+- 7-12 1-2 cost cards
+- 5-9 3 cost cards
+- 3-4 4 cost cards
+- 3-5 5+ cost cards
+- 17ish power
+
+Expensive Curve: 19 or MAYBE 20 power... need card draw + early defensive tools to pair with this
+
+Aggro Curve: 15 or 16 power.... take advantage of mulligan to guarantee two power
+
 # Notes
 
 ## Mulligan
