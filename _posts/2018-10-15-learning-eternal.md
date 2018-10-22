@@ -29,7 +29,9 @@ categories: [Eternal]
 
 [Eternal Draft Beginner's Guide with Card Power Values](http://www.numotgaming.com/eternal-draft-beginners-guide/)
 
-[Drafting 101 Part 1](https://rngeternal.com/2017/09/21/drafting-101-part-1/)
+[Drafting 101 Part 1 - The Draft](https://rngeternal.com/2017/09/21/drafting-101-part-1/)
+
+[Drafting 101 Part 2 - Building the Deck](https://rngeternal.com/2017/09/28/drafting-101-part-2-building-the-deck/)
 
 ## Priority During Draft
 
