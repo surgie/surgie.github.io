@@ -48,6 +48,8 @@ That should help guide your plan. Having a plan in Limited events is essential. 
 
 [Drafting 101 Part 2 - Building the Deck](https://rngeternal.com/2017/09/28/drafting-101-part-2-building-the-deck/)
 
+[Drafting 101 Part 3 - Playing the Deck](https://rngeternal.com/2017/10/05/drafting-101-part-3-playing-the-deck/)
+
 ## Priority During Draft
 
 1. Bomb legendary/rare cards
