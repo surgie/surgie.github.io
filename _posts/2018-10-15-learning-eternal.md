@@ -75,6 +75,8 @@ Aggro Curve: 15 or 16 power.... take advantage of mulligan to guarantee two powe
 
 # Decks
 
+[Team Rankstar Meta Snapshot](https://teamrankstar.com/eternal-meta-snapshot-2/)
+
 [Extreme Budget Deck Series](https://theeternalpost.com/competitive-play/budget-decks/extreme/article)
 
 [Budget Rakano Gunslinger with Video](https://eternalwarcry.com/decks/details/j70Md0G1kBc/budget-rakano-gunslinger-w-video-showcase)
