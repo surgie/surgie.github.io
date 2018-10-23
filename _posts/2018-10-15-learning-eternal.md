@@ -25,6 +25,21 @@ categories: [Eternal]
 
 [New Player Guide - Eternal Post](https://theeternalpost.com/player-guides/new-player-guide)
 
+# Sealed
+
+[Sealed Deck Concepts](https://teamrankstar.com/eternal-sealed-deck-concepts/)
+
+```
+If you’re having trouble, here’s what I like to do while building my deck: 
+
+1. Export it to eternalwarcry.com, then sort by color, 
+2. then Ill ask myself “Do I have any bombs in a particular color(s) that incentivize me to play them?, 
+3. Do any colors look very shallow or weak that I know I should not be playing?, 
+4. from there ill go ahead and add the 28-34 cards which I think make a consistent deck and one by one trim down til I feel that 17-18 power is optimal.”  
+
+That should help guide your plan. Having a plan in Limited events is essential. In Sealed it can take some work to put together, but you should definitely have a plan nonetheless.
+```
+
 # Draft
 
 [Eternal Draft Beginner's Guide with Card Power Values](http://www.numotgaming.com/eternal-draft-beginners-guide/)
