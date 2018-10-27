@@ -4,6 +4,10 @@ date: 2018-10-15
 categories: [Eternal]
 ---
 
+# General Links
+
+[Shiftstoned Power Calculator](https://www.shiftstoned.com/epc/)
+
 # Initial Steps
 
 [Five Steps After The Tutorial](https://eternaltitans.com/a-rockpackers-guide-for-new-players/)
@@ -104,6 +108,8 @@ Aggro Curve: 15 or 16 power.... take advantage of mulligan to guarantee two powe
 - Mostly Dead Reckoning and Into The Shadows legendaries
 
 [Another Monoshadow deck](https://eternalwarcry.com/decks/details/cnQD0frp0so/masters-mono-shadow)
+
+[Top 40 Monoshadow](https://eternalwarcry.com/decks/details/rI1O6185IDw/into-the-shadowlands-top-40-masters)
 
 [Budget Justice / Shadow (Argenport) with guide](https://eternalwarcry.com/decks/details/S071ykERwhs/budget-argenport-deck-w-video-deck-tech-explanation)
 
