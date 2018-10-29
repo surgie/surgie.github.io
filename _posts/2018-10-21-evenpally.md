@@ -1,5 +1,5 @@
 ---
-title: "Boomsday Even Paladin Guides and Decks"
+title: "Even Paladin"
 date: 2018-10-21
 categories: [Hearthstone, Paladin]
 ---

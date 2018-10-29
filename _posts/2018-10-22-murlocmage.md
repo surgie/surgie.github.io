@@ -1,5 +1,5 @@
 ---
-title: "Boomsday Murloc Mage Guides and Decks"
+title: "Murloc Mage"
 date: 2018-10-22
 categories: [Hearthstone, Mage]
 ---
