@@ -12,6 +12,8 @@ categories: [Hearthstone, Paladin]
 
 [Rank 71 Legend Even Paladin](https://www.reddit.com/r/CompetitiveHS/comments/9okx9b/rank_71_legend_even_paladin/)
 
+[Even Paladin: helping Genn and Uther being even better](https://www.reddit.com/r/CompetitiveHS/comments/9s4vr0/even_paladin_helping_genn_and_uther_being_even/)
+
 ## Mulligan
 
 4 drops are the tricky point on whether to keep or not.
