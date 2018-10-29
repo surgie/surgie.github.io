@@ -11,7 +11,6 @@ categories: [Eternal]
 # Initial Steps
 
 [Five Steps After The Tutorial](https://eternaltitans.com/a-rockpackers-guide-for-new-players/)
-1. Gauntlet until Master rank (chest at each level)
 1. Never buy packs
     - Especially with gold! Use it on "Rare Drafting" (pick highest rarity cards), better evn with 0 wins.
 2. Campaigns - Tale of Horus Traver + Dead Reckoning > Jekk's bounty by a mile
