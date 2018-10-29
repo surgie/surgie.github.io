@@ -10,7 +10,7 @@ categories: [Hearthstone, Paladin]
 
 ### Boomsday Release Patch
 
-[Rank 71 Legend Even Paladin]](https://www.reddit.com/r/CompetitiveHS/comments/9okx9b/rank_71_legend_even_paladin/)
+[Rank 71 Legend Even Paladin](https://www.reddit.com/r/CompetitiveHS/comments/9okx9b/rank_71_legend_even_paladin/)
 
 ## Mulligan
 
