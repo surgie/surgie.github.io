@@ -104,12 +104,9 @@ Aggro Curve: 15 or 16 power.... take advantage of mulligan to guarantee two powe
 
 [Day 1 Budget Rakano Aggro](https://eternalwarcry.com/decks/details/jcd6DPbYn8s/day-1-budget-rakano)
 
-[Avanties' recommended Monoshadow deck](https://eternalwarcry.com/decks/details/rI1O6185IDw/into-the-shadowlands-top-40-masters)
-- Mostly Dead Reckoning and Into The Shadows legendaries
+[Top 40 Monoshadow](https://eternalwarcry.com/decks/details/rI1O6185IDw/into-the-shadowlands-top-40-masters)
 
 [Another Monoshadow deck](https://eternalwarcry.com/decks/details/cnQD0frp0so/masters-mono-shadow)
-
-[Top 40 Monoshadow](https://eternalwarcry.com/decks/details/rI1O6185IDw/into-the-shadowlands-top-40-masters)
 
 [Budget Justice / Shadow (Argenport) with guide](https://eternalwarcry.com/decks/details/S071ykERwhs/budget-argenport-deck-w-video-deck-tech-explanation)
 
