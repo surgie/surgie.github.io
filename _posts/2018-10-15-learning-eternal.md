@@ -16,6 +16,8 @@ categories: [Eternal]
 
 [Shiftstoned Power Calculator](https://www.shiftstoned.com/epc/)
 
+[Legendary Crafting & Dusting Guide](https://docs.google.com/spreadsheets/d/1hQqsGTH9Kz8OTUFeJzL6AgKepp8ySnKfda3VKNTwABo/edit#gid=0)
+
 # Initial Steps
 
 [Five Steps After The Tutorial](https://eternaltitans.com/a-rockpackers-guide-for-new-players/)
