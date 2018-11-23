@@ -4,6 +4,14 @@ date: 2018-10-15
 categories: [Eternal]
 ---
 
+# Current Decks
+
+[C24 Buizel Mono-Shadow](https://eternalwarcry.com/decks/details/amJEqH0R9ao/mono-shadow-masters-c24)
+
+[Buizel Mono-Shadow Guide](https://eternalwarcry.com/decks/details/epLhdmUrS_U/mono-shadow-masters-anti-skycrag)
+
+[Makash - It's Always Dark Monoshadow](https://eternalwarcry.com/decks/details/vNYVFOgr1QU/its-always-dark)
+
 # General Links
 
 [Shiftstoned Power Calculator](https://www.shiftstoned.com/epc/)
