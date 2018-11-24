@@ -9,3 +9,15 @@ categories: [Chess]
 [Chess Beginners](https://www.reddit.com/r/chessbeginners/)
 
 [Top teachers of chess for YouTube videos](https://www.reddit.com/r/chess/comments/9xt4p8/top_teachers_of_chess_for_youtube_videos/)
+
+# Book Progression
+
+## Beginner
+
+[Pandolfini's Ultimate Guide to Chess](https://www.amazon.com/Pandolfini-s-Ultimate-Guide-to-Chess/dp/0743226178/)
+
+[Winning Chess Strategy for Kids](https://www.amazon.com/Winning-Chess-Strategy-for-Kids/dp/1895525055/)
+
+## Intermediate
+
+[The Soviet Chess Primer](https://www.amazon.com/Soviet-Chess-Primer-Classics/dp/190798299X/)
