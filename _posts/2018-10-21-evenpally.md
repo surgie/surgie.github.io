@@ -10,7 +10,14 @@ categories: [Hearthstone, Paladin]
 
 ### Boomsday Release Patch
 
+
 [Rank 71 Legend Even Paladin](https://www.reddit.com/r/CompetitiveHS/comments/9okx9b/rank_71_legend_even_paladin/)
+
+[Even Buff Guide](https://old.reddit.com/r/CompetitiveHS/comments/8yzyfr/even_buff_paladin/)
+
+[Buff Version with Mulligans from BDP](https://old.reddit.com/r/CompetitiveHS/comments/952grg/the_case_for_even_buff_paladin/)
+
+[Buff Version with Mulligans from Witchwood](https://old.reddit.com/r/CompetitiveHS/comments/8yzyfr/even_buff_paladin/)
 
 [Even Paladin: helping Genn and Uther being even better](https://www.reddit.com/r/CompetitiveHS/comments/9s4vr0/even_paladin_helping_genn_and_uther_being_even/)
 
