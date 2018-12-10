@@ -25,3 +25,9 @@ categories: [Chess]
 [Logical Chess: Move by Move](https://www.amazon.com/Logical-Chess-Every-Explained-Algebraic/dp/0713484640/)
 
 [The Soviet Chess Primer](https://www.amazon.com/Soviet-Chess-Primer-Classics/dp/190798299X/)
+
+# YouTube Playlists
+
+[Chess Fundamentals](https://www.youtube.com/playlist?list=PLl9uuRYQ-6MBwqkmwT42l1fI7Z0bYuwwO)
+
+[Climbing Rating Ladder to 2000](https://www.youtube.com/playlist?list=PLl9uuRYQ-6MCBnhtCk_bTZsD8GxeWP6BV)
